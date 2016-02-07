@@ -6,4 +6,5 @@ $c=$a;
 $a=$b;
 $b=$c;
 echo "a= ".$a. " b=".$b;
+//hjkjhlkj
 ?>
